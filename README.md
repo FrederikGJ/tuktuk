@@ -1,5 +1,10 @@
 # Eksamen osv osv 
 
+#### husk at uploade på wiseflow inden 13:00 dut 
+Note - husk at tilføje exceptions til interfaces  
+
+## markdown shit 
+
 |HTTP method | REST Ressource | Exceptions and status(es) |
 |---|---|---|
 |GET| `/api/plants`| 2000000 LOLOLOLO |
@@ -14,9 +19,6 @@
 "type":"student"
 }
 ```
-
-#### husk at uploade på wiseflow inden 13:00 dut 
-Note - husk at tilføje exceptions til interfaces  
 
 
 ```java
