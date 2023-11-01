@@ -14,3 +14,5 @@
 "type":"student"
 }
 ```
+
+## husk at uploade på wiseflow inden 13:00 dut 
