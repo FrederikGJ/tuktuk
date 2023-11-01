@@ -6,3 +6,12 @@
 |GET|`/api/plants/{id}`| |
 |GET|`/api/plants/type/{type}` | |
 |POST| `/api/plants` | |
+
+```json
+
+{
+"name":"lol"
+"type":"student"
+}
+
+´´´
