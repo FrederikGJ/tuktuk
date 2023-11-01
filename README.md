@@ -26,3 +26,7 @@ System.out.println("toto");
 }
 
 ```
+
+```python
+print("tototot")
+```
