@@ -16,3 +16,13 @@
 ```
 
 ## husk at uploade på wiseflow inden 13:00 dut 
+
+
+```java
+public class Main{
+public static void main(String [] args){
+System.out.println("toto")
+}
+}
+
+```
